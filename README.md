@@ -3,12 +3,11 @@
    Spring Framework config for use mongodb(concept no sql) for begin.
 
 ###Running Project
-  1. install mongodb
+   1. install mongodb
   
       *[`https://www.mongodb.com/download-center?jmp=docs&_ga=1.207095062.460601489.1465185150#community`](https://www.mongodb.com/download-center?jmp=docs&_ga=1.207095062.460601489.1465185150#community)*
 
-
-  2. start service of mongodb
+   2. start service of mongodb
 
    For windows:
 
@@ -18,7 +17,6 @@
    For Other OS:
 
     *[`https://docs.mongodb.com/manual/tutorial/`](https://docs.mongodb.com/manual/tutorial/)*
-
 
    3. install Robomongo 
 
@@ -40,9 +38,9 @@
    db.createCollection("person", { size: 2147483648 } )
 ~~~
 
-   4. install SDK8 and maven(for spring framework)
-   5. import maven project
-   6. run as Java Application in pakage main
+   6. install SDK8 and maven(for spring framework)
+   7. import maven project
+   8. run as Java Application in pakage main
 
 
 ###Command for query data in mongodb 
