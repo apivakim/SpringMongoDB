@@ -53,5 +53,5 @@
    
 
 ###Resource:
-    *[`http://www.journaldev.com/4144/spring-data-mongodb-example-tutorial`](http://www.journaldev.com/4144/spring-data-mongodb-example-tutorial)*
+   *[`http://www.journaldev.com/4144/spring-data-mongodb-example-tutorial`](http://www.journaldev.com/4144/spring-data-mongodb-example-tutorial)*
 
